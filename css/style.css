@@ -287,7 +287,7 @@
   .vertical {
     float: left;
     width: 31.1%;
-    margin-right: 38.7px;
+    margin-right: 15px;
     margin-bottom: 60px;
     text-align: center;
   }
@@ -379,7 +379,7 @@
   /* end grid */
   
   /* numbers */
-  .customers, .loghi {
+  .customers, .logos {
     float: left;
     text-align: center;
     width: 50%;
@@ -391,7 +391,7 @@
   }
   
   /* logos */
-  div.loghi div.row.first {
+  div.logos div.row.first {
     border: none;
   }
   
